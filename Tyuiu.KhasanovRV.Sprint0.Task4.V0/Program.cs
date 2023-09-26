@@ -19,6 +19,7 @@ namespace Tyuiu.KhasanovRV.Sprint0.Task4.V0
 
             Console.WriteLine(DataService.Division(5,5));
 
+
             Console.ReadKey();
         }
     }

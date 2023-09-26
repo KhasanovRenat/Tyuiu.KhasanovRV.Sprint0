@@ -27,5 +27,6 @@ namespace Tyuiu.KhasanovRV.Sprint0.Task4.V0.Lib
         {
             return a / b;
         }
+
     }
 }

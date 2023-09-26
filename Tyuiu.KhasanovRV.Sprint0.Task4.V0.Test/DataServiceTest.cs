@@ -30,5 +30,6 @@ namespace Tyuiu.KhasanovRV.Sprint0.Task4.V0.Test
         {
             Assert.AreEqual(3, DataService.Division(9, 3));
         }
+
     }
 }
